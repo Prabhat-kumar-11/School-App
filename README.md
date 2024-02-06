@@ -5,7 +5,7 @@ This application allows you to post data to the backend and display it on the pa
 ## Features
 - Tailwind CSS for styling
 - Next.js for server-side rendering
-- React hooks form for managing state
+- React hook for managing state
 - Form handling with React Hook Form
 - MySQL for backend database
 
