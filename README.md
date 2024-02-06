@@ -20,6 +20,6 @@ To run this project locally, follow these steps:
 
 ## ScreenShot
 
-![Image](./schoolweb/public/Screenshot%202024-02-06%20140442.png)
-![Image](./schoolweb/public/Screenshot%202024-02-06%20140504.png)
-![Image](./schoolweb/public/Screenshot%202024-02-06%20140517.png)
+![Image](./schoolweb/public/Screenshot1.png)
+![Image](./schoolweb/public/Screenshot2.png)
+![Image](./schoolweb/public/Screenshot3.png)
